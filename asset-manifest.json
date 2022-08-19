@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-demo-website/static/css/main.111134cb.css",
+    "main.js": "/react-tailwind-demo-website/static/js/main.c7588425.js",
+    "static/media/support.jpg": "/react-tailwind-demo-website/static/media/support.fbb68b74ad8ee65b90f7.jpg",
+    "static/media/cyber-bg.png": "/react-tailwind-demo-website/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/react-tailwind-demo-website/index.html",
+    "main.111134cb.css.map": "/react-tailwind-demo-website/static/css/main.111134cb.css.map",
+    "main.c7588425.js.map": "/react-tailwind-demo-website/static/js/main.c7588425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.111134cb.css",
+    "static/js/main.c7588425.js"
+  ]
+}
